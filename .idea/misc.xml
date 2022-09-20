@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/KIM/AndroidStudioProjects/MyDiary/app/src/main/res/drawable/ic_launcher_background.xml" value="0.32" />
+        <entry key="..\:/Users/KIM/AndroidStudioProjects/MyDiary/app/src/main/res/drawable/select_button.xml" value="0.32" />
         <entry key="..\:/Users/KIM/AndroidStudioProjects/MyDiary/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/KIM/AndroidStudioProjects/MyDiary/app/src/main/res/layout/fragment1.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/KIM/AndroidStudioProjects/MyDiary/app/src/main/res/layout/fragment2.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/KIM/AndroidStudioProjects/MyDiary/app/src/main/res/layout/fragment3.xml" value="0.38645833333333335" />
         <entry key="..\:/Users/KIM/AndroidStudioProjects/MyDiary/app/src/main/res/menu/menu_bottom.xml" value="0.38645833333333335" />
       </map>
     </option>
