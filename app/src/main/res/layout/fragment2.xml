@@ -172,6 +172,15 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:id="@+id/deleteButton"
+            android:layout_centerInParent="true"
+            android:background="@drawable/select_button"
+            android:text="삭제"
+            android:textColor="@android:color/white"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:id="@+id/closeButton"
             android:layout_alignParentRight="true"
             android:layout_marginRight="20dp"
